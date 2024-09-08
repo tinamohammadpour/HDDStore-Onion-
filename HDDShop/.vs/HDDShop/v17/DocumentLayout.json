@@ -1,0 +1,1500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\controllers\\adminblogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\controllers\\adminblogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\controllers\\adminaboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\controllers\\adminaboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminaboutus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminaboutus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminblogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminblogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminblogcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminblogcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminblogcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminblogcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminblogcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminblogcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminblogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminblogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminaboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminaboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.infrastructure\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|solutionrelative:app.infrastructure\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.infrastructure\\app.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|solutionrelative:app.infrastructure\\app.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminaboutus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminaboutus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminaboutus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminaboutus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\adminaboutus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\adminaboutus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\profiles\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\profiles\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productcapacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productcapacity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\payment\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\payment\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\orders\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\orders\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\orders\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\massages\\basedatamessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\massages\\basedatamessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\faqs\\faqcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\faqs\\faqcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\faqs\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\faqs\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\blogs\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\blogs\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\blogs\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\sendrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\sendrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\salerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\salerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\learnings\\learningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\learnings\\learningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\learnings\\learningcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\learnings\\learningcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\learnings\\ilearningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\learnings\\ilearningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\learnings\\ilearningcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\learnings\\ilearningcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\learnings\\learningcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\learnings\\learningcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\learnings\\learningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\learnings\\learningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\learnings\\addorupdatelearningcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\learnings\\addorupdatelearningcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\learnings\\addorupdatelearningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\learnings\\addorupdatelearningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\faqs\\faqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\faqs\\faqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\faqs\\faqcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\faqs\\faqcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\faqs\\addorupdatefaqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\faqs\\addorupdatefaqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\faqs\\addorupdatefaqcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\faqs\\addorupdatefaqcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\faqs\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\faqs\\faqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\faqs\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\faqs\\ifaqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\blogs\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\blogs\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\faqs\\ifaqcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\faqs\\ifaqcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\faqs\\faqcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\faqs\\faqcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\blogs\\addorupdateblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\blogs\\addorupdateblogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\blogs\\addorupdateblogcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\blogs\\addorupdateblogcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\blogs\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\blogs\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\rules\\rulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\rules\\rulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\rules\\irulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\rules\\irulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\rules\\rulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\rules\\rulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\rules\\addorupdaterulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\rules\\addorupdaterulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\returnrules\\returnrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\returnrules\\returnrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\abouts\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\abouts\\aboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\abouts\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\abouts\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\returnrules\\ireturnrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\returnrules\\ireturnrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\returnrules\\returnrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\returnrules\\returnrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\returnrules\\addorupdatereturnrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\returnrules\\addorupdatereturnrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\returnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\returnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\payrules\\payrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\payrules\\payrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\payrules\\ipayrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\payrules\\ipayrulesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\abouts\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\payrules\\payrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\payrules\\payrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\payrules\\addorupdatepayrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\payrules\\addorupdatepayrulesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.domain\\entities\\basedata\\payrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2E3016-57C8-4DCE-9617-69E21B1992C3}|App.Domain\\App.Domain.csproj|solutionrelative:app.domain\\entities\\basedata\\payrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\blogs\\blogcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\blogs\\blogcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\blogs\\iblogcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\blogs\\iblogcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\blogs\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\blogs\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\blogs\\blogcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\blogs\\blogcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\contactus\\contactusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\contactus\\contactusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\contactus\\contactusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\contactus\\contactusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\services\\contactus\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\services\\contactus\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\contactus\\addorupdatecontactusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\contactus\\addorupdatecontactusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\abouts\\addorupdateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\abouts\\addorupdateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.dataaccess\\app.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF9B80F6-FB26-4CE4-B316-10EA987ECBEC}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\app.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.web\\app.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AEB4854-2378-44E2-9E60-AC1014A19244}|App.Web\\App.Web.csproj|solutionrelative:app.web\\app.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAA3873-2A76-44CF-A894-34B1844FA2FD}|App.DataCommon\\App.DataCommon.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.datacommon\\app.datacommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFAA3873-2A76-44CF-A894-34B1844FA2FD}|App.DataCommon\\App.DataCommon.csproj|solutionrelative:app.datacommon\\app.datacommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAA3873-2A76-44CF-A894-34B1844FA2FD}|App.DataCommon\\App.DataCommon.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.datacommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAA3873-2A76-44CF-A894-34B1844FA2FD}|App.DataCommon\\App.DataCommon.csproj|solutionrelative:app.datacommon\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|e:\\shareghi\\hardshopsamplewithonionarchitecture\\hardshopsample-onion-\\hddshop\\app.infrastructure\\migrations\\20240823104217_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9047C205-E69A-46EF-8886-DC6641B97644}|App.InfraStructure\\App.InfraStructure.csproj|solutionrelative:app.infrastructure\\migrations\\20240823104217_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminBlogCategoryController.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Controllers\\AdminBlogCategoryController.cs",
+              "RelativeDocumentMoniker": "App.Web\\Controllers\\AdminBlogCategoryController.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Controllers\\AdminBlogCategoryController.cs",
+              "RelativeToolTip": "App.Web\\Controllers\\AdminBlogCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:57:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminBlogCategory\\Create.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Create.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminBlogCategory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:07:51.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminBlogCategory\\Index.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Index.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminBlogCategory\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:00:47.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAboutUsController.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Controllers\\AdminAboutUsController.cs",
+              "RelativeDocumentMoniker": "App.Web\\Controllers\\AdminAboutUsController.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Controllers\\AdminAboutUsController.cs",
+              "RelativeToolTip": "App.Web\\Controllers\\AdminAboutUsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:30:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminBlogCategory\\Delete.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Delete.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminBlogCategory\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:09:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240823104217_InitDb.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\Migrations\\20240823104217_InitDb.cs",
+              "RelativeDocumentMoniker": "App.InfraStructure\\Migrations\\20240823104217_InitDb.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\Migrations\\20240823104217_InitDb.cs",
+              "RelativeToolTip": "App.InfraStructure\\Migrations\\20240823104217_InitDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:42:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminAboutUs\\Index.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Index.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminAboutUs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:15:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Create.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminAboutUs\\Create.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Create.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminAboutUs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T21:49:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Details.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminBlogCategory\\Details.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Details.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminBlogCategory\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:07:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminBlogCategory\\Edit.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminBlogCategory\\Edit.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminBlogCategory\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T08:08:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Program.cs",
+              "RelativeDocumentMoniker": "App.Web\\Program.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Program.cs",
+              "RelativeToolTip": "App.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:08:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Details.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminAboutUs\\Details.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Details.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminAboutUs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T21:48:34.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "App.Web\\appsettings.json",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\appsettings.json",
+              "RelativeToolTip": "App.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T08:22:03.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "App.InfraStructure\\Context\\DataContext.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\Context\\DataContext.cs",
+              "RelativeToolTip": "App.InfraStructure\\Context\\DataContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:57:54.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.InfraStructure.csproj",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\App.InfraStructure.csproj",
+              "RelativeDocumentMoniker": "App.InfraStructure\\App.InfraStructure.csproj",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.InfraStructure\\App.InfraStructure.csproj",
+              "RelativeToolTip": "App.InfraStructure\\App.InfraStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T07:50:08.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminAboutUs\\Edit.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Edit.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminAboutUs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T21:50:21.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\AdminAboutUs\\Delete.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\AdminAboutUs\\Delete.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\AdminAboutUs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T21:51:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Users\\User.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Users\\User.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Users\\User.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:56:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Roles\\Role.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Roles\\Role.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Roles\\Role.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Roles\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:56:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderList.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Profiles\\OrderList.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Profiles\\OrderList.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Profiles\\OrderList.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Profiles\\OrderList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:14:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductPrice.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductPrice.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductPrice.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductPrice.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:53.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductGallery.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductGallery.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductGallery.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductGallery.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:47.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductFeature.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductFeature.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductFeature.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductFeature.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:42.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductColor.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductColor.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductColor.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:36.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductCategory.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductCategory.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:27.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCapacity.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductCapacity.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductCapacity.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductCapacity.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductCapacity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Products\\ProductBrand.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Products\\ProductBrand.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Products\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:13:10.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Orders\\OrderItem.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Orders\\OrderItem.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Orders\\OrderItem.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Orders\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:12:52.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Orders\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Orders\\OrderDetail.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Orders\\OrderDetail.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Orders\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:12:43.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SendRules.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\SendRules.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\SendRules.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\SendRules.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\SendRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:11:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Blogs\\Blog.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Blogs\\Blog.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Blogs\\Blog.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Blogs\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:54:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BlogCategory.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Blogs\\BlogCategory.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Blogs\\BlogCategory.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Blogs\\BlogCategory.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Blogs\\BlogCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:55:06.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Comments\\Comment.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Comments\\Comment.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Comments\\Comment.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Comments\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:53:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Faq.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Faqs\\Faq.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Faqs\\Faq.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Faqs\\Faq.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Faqs\\Faq.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:42:42.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FaqCategory.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Faqs\\FaqCategory.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Faqs\\FaqCategory.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Faqs\\FaqCategory.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Faqs\\FaqCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:42:31.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Payment\\Payment.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Payment\\Payment.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Payment\\Payment.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Payment\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:56:20.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseDataMessage.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Massages\\BaseDataMessage.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\Massages\\BaseDataMessage.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\Massages\\BaseDataMessage.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\Massages\\BaseDataMessage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:56:12.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "About.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\About.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\About.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\About.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:35:52.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LearningCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\LearningCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Learnings\\LearningCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\LearningCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Learnings\\LearningCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:21:42.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SaleRules.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\SaleRules.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\SaleRules.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\SaleRules.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\SaleRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:52:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ILearningCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\ILearningCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Learnings\\ILearningCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\ILearningCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Learnings\\ILearningCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:21:22.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T08:00:03.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LearningCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\LearningCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Learnings\\LearningCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\LearningCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Learnings\\LearningCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LearningDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\LearningDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Learnings\\LearningDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\LearningDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Learnings\\LearningDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:17:53.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ILearningService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\ILearningService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Learnings\\ILearningService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\ILearningService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Learnings\\ILearningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:22:17.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LearningService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\LearningService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Learnings\\LearningService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Learnings\\LearningService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Learnings\\LearningService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:21:57.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddOrUpdateLearningCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddOrUpdateLearningDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Learnings\\AddOrUpdateLearningDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:18:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FaqDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\FaqDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\faqs\\FaqDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\FaqDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\faqs\\FaqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:39:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FaqCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\FaqCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\faqs\\FaqCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\FaqCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\faqs\\FaqCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:41:52.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddOrUpdateFaqDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:39:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddOrUpdateFaqCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\faqs\\AddOrUpdateFaqCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:42:18.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IFaqCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\IFaqCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\faqs\\IFaqCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\IFaqCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\faqs\\IFaqCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:48:10.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FaqService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\FaqService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\faqs\\FaqService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\FaqService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\faqs\\FaqService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIBJwFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:47:24.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FaqCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\FaqCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\faqs\\FaqCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\FaqCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\faqs\\FaqCategoryService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:47:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IFaqService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\IFaqService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\faqs\\IFaqService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\faqs\\IFaqService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\faqs\\IFaqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:47:55.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\BlogService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Blogs\\BlogService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\BlogService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Blogs\\BlogService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIBJwFkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:34:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AddorUpdateBlogDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\AddorUpdateBlogDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Blogs\\AddorUpdateBlogDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\AddorUpdateBlogDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Blogs\\AddorUpdateBlogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:14:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddOrUpdateBlogCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\AddOrUpdateBlogCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Blogs\\AddOrUpdateBlogCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\AddOrUpdateBlogCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Blogs\\AddOrUpdateBlogCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:29:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BlogDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\BlogDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Blogs\\BlogDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\BlogDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Blogs\\BlogDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:13:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IRulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\rules\\IRulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\rules\\IRulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\rules\\IRulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\rules\\IRulesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:20:10.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\rules\\RulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\rules\\RulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\rules\\RulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\rules\\RulesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:18:28.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\Rules.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\Rules.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\Rules.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\Rules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:17:17.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AddOrUpdateRulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\rules\\AddOrUpdateRulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\rules\\AddOrUpdateRulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\rules\\AddOrUpdateRulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\rules\\AddOrUpdateRulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:17:13.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\rules\\RulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\rules\\RulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\rules\\RulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\rules\\RulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:16:55.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReturnRulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\returnRules\\ReturnRulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\returnRules\\ReturnRulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\returnRules\\ReturnRulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\returnRules\\ReturnRulesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:00:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IReturnRulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\returnRules\\IReturnRulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\returnRules\\IReturnRulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\returnRules\\IReturnRulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\returnRules\\IReturnRulesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:00:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AddOrUpdatereturnRulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\returnRules\\AddOrUpdatereturnRulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\returnRules\\AddOrUpdatereturnRulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\returnRules\\AddOrUpdatereturnRulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\returnRules\\AddOrUpdatereturnRulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:56:33.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "returnRulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\returnRules\\returnRulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\returnRules\\returnRulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\returnRules\\returnRulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\returnRules\\returnRulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:56:16.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Abouts\\IAboutService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Abouts\\IAboutService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Abouts\\IAboutService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Abouts\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:39:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AboutService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Abouts\\AboutService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Abouts\\AboutService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Abouts\\AboutService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Abouts\\AboutService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIBJwFAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:39:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ReturnRules.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\ReturnRules.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\ReturnRules.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\ReturnRules.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\ReturnRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:56:54.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IpayRulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\payRules\\IpayRulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\payRules\\IpayRulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\payRules\\IpayRulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\payRules\\IpayRulesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:38:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "payRulesService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\payRules\\payRulesService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\payRules\\payRulesService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\payRules\\payRulesService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\payRules\\payRulesService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:38:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "payRulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\payRules\\payRulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\payRules\\payRulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\payRules\\payRulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\payRules\\payRulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:36:13.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AboutDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Abouts\\AboutDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Abouts\\AboutDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Abouts\\AboutDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Abouts\\AboutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:34:46.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddOrUpdatePayRulesDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\payRules\\AddOrUpdatePayRulesDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\payRules\\AddOrUpdatePayRulesDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\payRules\\AddOrUpdatePayRulesDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\payRules\\AddOrUpdatePayRulesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:36:30.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PayRules.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\PayRules.cs",
+              "RelativeDocumentMoniker": "App.Domain\\Entities\\BaseData\\PayRules.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Domain\\Entities\\BaseData\\PayRules.cs",
+              "RelativeToolTip": "App.Domain\\Entities\\BaseData\\PayRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:34:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IBlogCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\IBlogCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Blogs\\IBlogCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\IBlogCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Blogs\\IBlogCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:35:13.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\IBlogService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Blogs\\IBlogService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\IBlogService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Blogs\\IBlogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:35:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BlogCategoryService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\BlogCategoryService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\Blogs\\BlogCategoryService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\Blogs\\BlogCategoryService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\Blogs\\BlogCategoryService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:34:57.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BlogCategoryDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\BlogCategoryDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Blogs\\BlogCategoryDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Blogs\\BlogCategoryDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Blogs\\BlogCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:29:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\contactUs\\IContactService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\contactUs\\IContactService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\contactUs\\IContactService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\contactUs\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:51:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ContactUsService.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\contactUs\\ContactUsService.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Services\\contactUs\\ContactUsService.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Services\\contactUs\\ContactUsService.cs",
+              "RelativeToolTip": "App.DataAccess\\Services\\contactUs\\ContactUsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:51:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AddOrUpdateContactUsDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\contactUs\\AddOrUpdateContactUsDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\contactUs\\AddOrUpdateContactUsDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\contactUs\\AddOrUpdateContactUsDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\contactUs\\AddOrUpdateContactUsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:34:26.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ContactUsDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\contactUs\\ContactUsDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\contactUs\\ContactUsDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\contactUs\\ContactUsDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\contactUs\\ContactUsDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:33:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AddOrUpdateAboutDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Abouts\\AddOrUpdateAboutDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Abouts\\AddOrUpdateAboutDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Abouts\\AddOrUpdateAboutDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Abouts\\AddOrUpdateAboutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:35:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Common\\BaseDto.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Dtos\\Common\\BaseDto.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\Dtos\\Common\\BaseDto.cs",
+              "RelativeToolTip": "App.DataAccess\\Dtos\\Common\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:33:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "App.DataAccess.csproj",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\App.DataAccess.csproj",
+              "RelativeDocumentMoniker": "App.DataAccess\\App.DataAccess.csproj",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataAccess\\App.DataAccess.csproj",
+              "RelativeToolTip": "App.DataAccess\\App.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T07:50:35.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "App.Web.csproj",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\App.Web.csproj",
+              "RelativeDocumentMoniker": "App.Web\\App.Web.csproj",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.Web\\App.Web.csproj",
+              "RelativeToolTip": "App.Web\\App.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T07:51:09.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "App.DataCommon.csproj",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataCommon\\App.DataCommon.csproj",
+              "RelativeDocumentMoniker": "App.DataCommon\\App.DataCommon.csproj",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataCommon\\App.DataCommon.csproj",
+              "RelativeToolTip": "App.DataCommon\\App.DataCommon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T07:50:55.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataCommon\\Class1.cs",
+              "RelativeDocumentMoniker": "App.DataCommon\\Class1.cs",
+              "ToolTip": "E:\\Shareghi\\HardShopSampleWithOnionArchitecture\\HardShopSample-Onion-\\HDDShop\\App.DataCommon\\Class1.cs",
+              "RelativeToolTip": "App.DataCommon\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:47:57.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

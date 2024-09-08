@@ -1,0 +1,12 @@
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\bin\Debug\net8.0\App.Domain.dll
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.sourcelink.json
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.dll
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+E:\Shareghi\HardShopSampleWithOnionArchitecture\HardShopSample-Onion-\HDDShop\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll
